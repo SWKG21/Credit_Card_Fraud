@@ -1,11 +1,7 @@
 # Credit_Card_Fraud
 
-École Polytechnique, Master 2 - Data Science
+This is a little project for course Machine Learning: Business Case of Master Data Science (École Polytechnique)
 
-Machine Learning: Business Case 
+Authors: Bolong ZHANG, Shangyuan ZHANG, Wang SUN, Wenzhuo LIU
 
----
-
-**_Group 5: Bolong ZHANG, Shangyuan ZHANG, Wang SUN, Wenzhuo LIU_**
-
-**Final Team Work** - [Credit Card Fraud](credit_card_fraud.ipynb)
+Final work is in credit_card_fraud.ipynb
